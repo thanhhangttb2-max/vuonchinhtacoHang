@@ -1,0 +1,6 @@
+{
+  "name": "Vườn Chữ Vui – Luyện Chính Tả Cùng Em",
+  "description": "Ứng dụng luyện chính tả tương tác cho học sinh lớp 2, giúp phân biệt các nhóm chữ dễ nhầm ch/tr, d/gi, v/d, th/h, r/g với ngữ cảnh sinh động và góc giáo viên toàn diện.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
